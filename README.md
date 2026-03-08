@@ -60,7 +60,9 @@ class RakibulHasan:
 
 ](https://youtube.com/@LilliputProgrammer)
 </div>
+[![YouTube](https://img.shields.io/badge/Lilliput%20Programmer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+](https://youtube.com/@LilliputProgrammer)
 ---
 
 ## 📊 GitHub Stats
