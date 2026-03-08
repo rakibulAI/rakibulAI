@@ -4,8 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Rakibul%20Hasan&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descColor=79c0ff&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Rakibul+Hasan;🤖+AI+%26+ML+Enthusiast;🐍+Python+Developer;📊+Data+Science+Learner;🚀+Building+the+Future+with+AI" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Rakibul+Hasan;🌐+Web+Developer;🤖+AI+%26+ML+Enthusiast;🐍+Python+Developer;🚀+Building+the+Future" alt="Typing SVG" />
 </div>
 
 ---
