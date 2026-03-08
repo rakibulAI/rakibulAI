@@ -31,40 +31,114 @@ class RakibulHasan:
 
 ## 🛠️ Skills & Technologies
 
+Skills & Technologies
+
 <div align="center">
 
+### ✅ Currently Know
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
 
----
+
+### 🚀 Learning Next
+
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+</div>
 
 ## 🚀 My Projects
 
+My Projects
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio%20Website-0f3460?style=for-the-badge)](https://rakibulai.github.io/portfolio-website/)
-[![Project 2](https://img.shields.io/badge/📁%20Project%202-16213e?style=for-the-badge)](https://rakibulai.github.io/rakibulhasan.github.io/)
-[
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/domain.png"/>
+<br><br>
+<a href="https://rakibulai.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/🌐 Portfolio Website-View Project-0f3460?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/source-code.png"/>
+<br><br>
+<a href="https://rakibulai.github.io/rakibulhasan.github.io/">
+<img src="https://img.shields.io/badge/📁 Project 2-View Project-16213e?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/youtube-play.png"/>
+<br><br>
+<a href="https://youtube.com/@LilliputProgrammer">
+<img src="https://img.shields.io/badge/🎥 Lilliput Programmer-Subscribe-FF0000?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
-![YouTube](https://img.shields.io/badge/Lilliput%20Programmer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://youtube.com/@LilliputProgrammer)
 </div>
-[![YouTube](https://img.shields.io/badge/Lilliput%20Programmer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://youtube.com/@LilliputProgrammer)
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
