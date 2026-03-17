@@ -130,8 +130,8 @@ My Projects
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/youtube-play.png"/>
 <br><br>
-<a href="https://youtube.com/@LilliputProgrammer">
-<img src="https://img.shields.io/badge/🎥 Lilliput Programmer-Subscribe-FF0000?style=for-the-badge&logoColor=white"/>
+<a href="https://youtube.com/@EpicRakibul">
+<img src="https://img.shields.io/badge/🎥 Epic Rakibul-Subscribe-FF0000?style=for-the-badge&logoColor=white"/>
 </a>
 </td>
 </tr>
